@@ -157,6 +157,20 @@ React component-based UI development
 
 Frontend–backend integration using JSON
 
+
+🔮 Future Enhancements (Planned)
+
+Secure authentication and authorization using Spring Security (JWT)
+
+Role-based access control for content management
+
+Pagination and sorting for improved performance
+
+Comment and user interaction features
+
+Search functionality for faster content discovery
+
+Cloud deployment with CI/CD automation
 👨‍💻 Author
 
 U. Manjunath
@@ -165,7 +179,3 @@ Java Backend / Full Stack Java Developer
 GitHub: https://github.com/Manjunath1063
 
 LinkedIn: https://www.linkedin.com/in/u-manjunath-9ab513288/
-
-⭐ Recruiter Note
-
-This project demonstrates hands-on experience with Java, Spring Boot, REST APIs, Spring Security, and React, aligned with industry-standard backend and full-stack development practices.
